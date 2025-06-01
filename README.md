@@ -39,10 +39,10 @@ streamlit run app.py
 ## Project Structure
 
 Digit_Recognition/
-├── app.py                # Streamlit web application script
-├── train_model.py        # Script to train and save the PyTorch model
-├── mnist_model.pth       # Pretrained PyTorch model weights
-├── requirements.txt      # Python package dependencies
+    - app.py                # Streamlit web application script
+    - train_model.py        # Script to train and save the PyTorch model
+    - mnist_model.pth       # Pretrained PyTorch model weights
+    - requirements.txt      # Python package dependencies
 
 ## Dataset
 
@@ -51,4 +51,4 @@ Digit_Recognition/
 - Images are 28x28 grayscale.
 
 ## Screenshots
-Digit_Classifier
+![Digit_Classifier](https://github.com/Vaishnavi26-Kasture/Image_Digit_Recognition/blob/main/Digit_Classifier.jpeg?raw=true)
